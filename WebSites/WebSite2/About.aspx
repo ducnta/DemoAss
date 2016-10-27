@@ -141,12 +141,12 @@
                 <asp:Parameter Name="MaHD" Type="Int32" />
             </UpdateParameters>
         </asp:SqlDataSource>
-        <p>        
-            CTY TNHH TMDV TIN HỌC DC <br />
-            DC: 85 Hồ Tùng Mậu, Mai Dịch, Cầu Giấy, Hà Nội. <br />
-            DT: 04-86599889 - 0983227224. <br />
-            Mở Cửa: Các Ngày Trong Tuần (08h-18h) - (Trừ Ngày Lễ,Tết).
-        </p>
+                
+            <h3>CTY TNHH TMDV TIN HỌC DC</h3> 
+            <h4>DC: 85 Hồ Tùng Mậu, Mai Dịch, Cầu Giấy, Hà Nội.</h4> 
+            <h4>DT: 04-86599889 - 0983227224.</h4> 
+            <h4>Mở Cửa: Các Ngày Trong Tuần (08h-18h) - (Trừ Ngày Lễ,Tết).</h4> 
+        
 
     
     </article>
